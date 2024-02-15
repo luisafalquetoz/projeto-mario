@@ -11,3 +11,4 @@
 </div>
 <br>
 <img src="https://github.com/luisafalquetoz/projeto-mario/blob/main/site%20mario%20pc.png?raw=true"> 
+<img src="https://github.com/luisafalquetoz/projeto-mario/blob/main/site%20mario%20form%20pc.png?raw=true"> 
