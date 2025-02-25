@@ -14,7 +14,7 @@ Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub" 
 
 ## 📥 Instalação
 
-Clone o repositório e instale as dependências:
+Clone o repositório:
 
 ```
 # Clone este repositório
